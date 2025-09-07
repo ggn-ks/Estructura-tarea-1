@@ -1,7 +1,3 @@
-## Datos estudiante
-- **NOMBRE :** Ignacia Curaqueo González
-- **RUN :** 22.025.464-K
-
 # SISTEMA DE GESTIÓN DE TICKETS SOPORTE TÉCNICO
 
 ### descripción
